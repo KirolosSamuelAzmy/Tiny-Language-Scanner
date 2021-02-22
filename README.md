@@ -69,8 +69,6 @@ It is an example if the code is written in one line without spaces.
 ![Ex3soln](https://i.imgur.com/DdAk5JB.png)
 
 
-![ex2(1)](https://i.imgur.com/mykYaAn.png)
-
 <li> <span style="color: grey ">Second Example:</span>  </li>
 It is an example if the code is written in proper way.
 
